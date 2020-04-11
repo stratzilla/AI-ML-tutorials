@@ -1,6 +1,6 @@
 # Tutorials
 
-This is a collection of tutorials I've written on various artificial intelligence and machine learning algorithms and topics. As a disclaimer, at the time of writing these, my knowledge is not perfect and in many cases, I am learning how best to implement them as I'm writing them. Code may not be perfect and better tutorials may exist, I just want to keep these for posterity and for my own reference. Consider these all beginner-level approaches to implementation.
+This is a collection of tutorials I've written on various artificial intelligence and machine learning algorithms and topics. As a disclaimer, at the time of writing these, my knowledge is not perfect and in many cases, I am learning how best to implement them as I'm writing them. Code may not be perfect and better tutorials may exist, I just want to keep these for posterity and for my own reference. Consider these all beginner-to-intermediate-level approaches to implementation.
 
 Feel free to distribute, edit, make changes, improve, etc. these tutorials to your hearts desire. All I ask is if you publish any of them elsewhere, please let me know and link back.
 
