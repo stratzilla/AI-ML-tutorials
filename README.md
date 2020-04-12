@@ -15,3 +15,13 @@ In this tutorial I explain an implementation of the K-Means Clustering algorithm
 ### <a href="https://github.com/stratzilla/neural-network-tutorial">Neural Network using Backpropagation Training</a>
 
 In this tutorial I explain an implementation of a feedforward neural network using backpropagation training. The example data set is the Iris set but the implementation is generalized to any input data. I also briefly discuss hyperparameter selection by examining the effect of different learning and momentum rates.
+
+## Stuff I'm Working On
+
+Eventually I hope to add these tutorials at some point:
+
+- Particle Swarm Optimization
+- Hill Climbing
+- Training Neural Networks with Genetic Algorithms
+- Training Neural Networks with Particle Swarm Optimization
+- Breadth-first/depth-first Searches using N-Queens
