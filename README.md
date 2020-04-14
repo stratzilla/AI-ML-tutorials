@@ -16,12 +16,15 @@ In this tutorial I explain an implementation of the K-Means Clustering algorithm
 
 In this tutorial I explain an implementation of a feedforward neural network using backpropagation training. The example data set is the Iris set but the implementation is generalized to any input data. I also briefly discuss hyperparameter selection by examining the effect of different learning and momentum rates.
 
+### <a href="https://github.com/stratzilla/genetic-neural-network-tutorial">Neural Network using Genetic Algorithm Training</a>
+
+In this tutorial I explain an implementation of a feedforward neural network trained using a genetic algorithm. The example data set is the Wheat Seeds set but the implementation is generalized to any input data. This tutorial presupposes you've read the Genetic Algorithms and Neural Network using Backpropagation tutorials as while I start from scratch, I do not repeat much information as covered therein.
+
 ## Stuff I'm Working On
 
 Eventually I hope to add these tutorials at some point:
 
 - Particle Swarm Optimization
 - Hill Climbing
-- Training Neural Networks with Genetic Algorithms
 - Training Neural Networks with Particle Swarm Optimization
 - Breadth-first/depth-first Searches using N-Queens
