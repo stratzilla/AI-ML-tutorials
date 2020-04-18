@@ -26,7 +26,7 @@ In this tutorial I explain an implementation of a feedforward neural network tra
 
 ### <a href="https://github.com/stratzilla/particle-neural-network-tutorial">Neural Network using Particle Swarm Optimization Training</a>
 
-In this tutorial I explain an implementation of a feedforward neural network trained using a particle swarm optimization algorithm. The example data set is the Wine set but the implementation is generalized to any input data. This tutorial presupposes you've read the Particle Swarm Optimization and Neural Network using Particle Swarms tutorials as while I start from scratch, I do not repeat much information as covered therein.
+In this tutorial I explain an implementation of a feedforward neural network trained using a particle swarm optimization algorithm. The example data set is the Wine set but the implementation is generalized to any input data. This tutorial presupposes you've read the Particle Swarm Optimization and Neural Network using Backpropagation tutorials as while I start from scratch, I do not repeat much information as covered therein.
 
 ## Stuff I'm Working On
 
