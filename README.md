@@ -1,10 +1,10 @@
 # Tutorials
 
-This is a collection of machine learning and artificial intelligence tutorials I've written using. They may not be up to snuff with some other tutorials, and in many cases, I've written them after only once or two implementations. I'm keeping these here for posterity for myself and for those who might also be interested. I had a hard time finding tutorials online for some of these subjects, so I thought I'd make my own for those who find themselves in a similar position to what I was.
+This is a collection of machine learning and artificial intelligence tutorials I've written using Jupyter Notebook. They may not be up to snuff with some other tutorials, and in many cases, I've written them after only one or two implementations. I'm keeping these here for posterity for myself and for those who might also be interested. I had a hard time finding tutorials online for some of these subjects, so I thought I'd make my own for those who find themselves in a similar position to what I was.
 
 I try my best to only use Python standard libraries, although I do quite like `numpy`, `pandas`, and `matplotlib`. Some `gnuplot` is involved as well but only for illustrative purposes.
 
-Feel free to distribute, edit, make changes, improve, etc. these tutorials to your hearts desire. All I ask is if you publish any of them elsewhere, please let me know and link back.
+Feel free to distribute, copy, edit, make changes to, etc. these tutorials to your hearts content. All I ask is if you publish any of them elsewhere, please let me know and link back.
 
 ### <a href="https://github.com/stratzilla/tutorials/tree/master/genetic-algorithms">Genetic Algorithms</a>
 
