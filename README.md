@@ -24,11 +24,11 @@ A step-by-step implementation of a vanilla feedforward neural network trained vi
 
 ### <a href="https://github.com/stratzilla/tutorials/tree/master/genetic-neural-network">Neural Network using Genetic Algorithm Training</a>
 
-A step-by-step implementation of a feedforward neural network, but instead trained using a genetic algorithm to optimize network weights. It helps to have read the <i>Neural Network using Backpropagation Training</i> and <i>Genetic Algorithms</i> tutorials beforehand.
+A step-by-step implementation of a feedforward neural network, but instead trained using a genetic algorithm to optimize network weights to model a classifier for the Wheat Seeds data set. It helps to have read the <i>Neural Network using Backpropagation Training</i> and <i>Genetic Algorithms</i> tutorials beforehand.
 
 ### <a href="https://github.com/stratzilla/tutorials/tree/master/particle-neural-network">Neural Network using Particle Swarm Optimization Training</a>
 
-A step-by-step implementation of a feedforward neural network, but instead using a particle swarm algorithm to optimize neural weights. It helps to have read the <i>Neural Network using Backpropagation Training</i> and <i>Particle Swarm Optimization</i> tutorials beforehand.
+A step-by-step implementation of a feedforward neural network, but instead using a particle swarm algorithm to optimize neural weights to model a classifier for the Wine data set. It helps to have read the <i>Neural Network using Backpropagation Training</i> and <i>Particle Swarm Optimization</i> tutorials beforehand.
 
 ## Stuff I'm Working On
 
