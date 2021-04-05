@@ -6,7 +6,7 @@ I try my best to only use Python standard libraries, although I do quite like `n
 
 Feel free to distribute, copy, edit, make changes to, etc. these tutorials to your hearts content. All I ask is if you publish any of them elsewhere, please let me know and link back.
 
-### <a href="https://github.com/stratzilla/tutorials/tree/master/genetic-algorithms">Genetic Algorithms</a>
+### <a href="./genetic-algorithms">Genetic Algorithms</a>
 
 A step-by-step implementation of a genetic algorithm to optimize the Styblinski-Tang function, generalized to any dimensionality. Includes one-point crossover and uniform mutation operators, tournament and elite selection strategies.
 
