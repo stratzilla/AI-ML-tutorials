@@ -2,35 +2,38 @@
 
 This is a collection of machine learning and artificial intelligence tutorials I've written using. They may not be up to snuff with some other tutorials, and in many cases, I've written them after only once or two implementations. I'm keeping these here for posterity for myself and for those who might also be interested. I had a hard time finding tutorials online for some of these subjects, so I thought I'd make my own for those who find themselves in a similar position to what I was.
 
+I try my best to only use Python standard libraries, although I do quite like `numpy`, `pandas`, and `matplotlib`. Some `gnuplot` is involved as well but only for illustrative purposes.
+
 Feel free to distribute, edit, make changes, improve, etc. these tutorials to your hearts desire. All I ask is if you publish any of them elsewhere, please let me know and link back.
 
 ### <a href="https://github.com/stratzilla/tutorials/tree/master/genetic-algorithms">Genetic Algorithms</a>
 
-In this tutorial I explain an implementation of a genetic algorithm which attempts to optimize the Styblinski-Tang function in two dimensions although the algorithm is generalized to any dimensions. One-Point Crossover and Uniform Mutation genetic operators are implemented.
+A step-by-step implementation of a genetic algorithm to optimize the Styblinski-Tang function, generalized to any dimensionality. Includes one-point crossover and uniform mutation operators, tournament and elite selection strategies.
 
 ### <a href="https://github.com/stratzilla/tutorials/tree/master/particle-swarm-optimization">Particle Swarm Optimization</a>
 
-In this tutorial I explain an implementation of a particle swarm optimization algorithm which attempts to optimize the Schwefel function in two dimensions although the algorithm is generalized to any dimensions.
+A step-by-step implementation of a particle swarm algorithm to optimize the Schwefel function, generalized to any dimensionality.
 
 ### <a href="https://github.com/stratzilla/tutorials/tree/master/k-means">K-Means Clustering with K-Means++ Initialization Strategy</a>
 
-In this tutorial I explain an implementation of the K-Means Clustering algorithm using both random and K-Means++ initialization strategies. I also discuss the Dunn Index and how it can be used to find an optimal `k` parameter for the algorithm in case `k` is not known a priori. 
+A step-by-step implementation of a K-Means clustering algorithm using K-Means++ initialization strategy. Includes Dunn Index calculation to determine merit in cluster count optimization.
 
 ### <a href="https://github.com/stratzilla/tutorials/tree/master/neural-network">Neural Network using Backpropagation Training</a>
 
-In this tutorial I explain an implementation of a feedforward neural network using backpropagation training. The example data set is the Iris set but the implementation is generalized to any input data. I also briefly discuss hyperparameter selection by examining the effect of different learning and momentum rates.
+A step-by-step implementation of a vanilla feedforward neural network trained via backpropagation to model a classifier for the Iris data set. Includes learning rate and momentum hyperparameters.
 
 ### <a href="https://github.com/stratzilla/tutorials/tree/master/genetic-neural-network">Neural Network using Genetic Algorithm Training</a>
 
-In this tutorial I explain an implementation of a feedforward neural network trained using a genetic algorithm. The example data set is the Wheat Seeds set but the implementation is generalized to any input data. This tutorial presupposes you've read the Genetic Algorithms and Neural Network using Backpropagation tutorials as while I start from scratch, I do not repeat much information as covered therein.
+A step-by-step implementation of a feedforward neural network, but instead trained using a genetic algorithm to optimize network weights. It helps to have read the <i>Neural Network using Backpropagation Training</i> and <i>Genetic Algorithms</i> tutorials beforehand.
 
 ### <a href="https://github.com/stratzilla/tutorials/tree/master/particle-neural-network">Neural Network using Particle Swarm Optimization Training</a>
 
-In this tutorial I explain an implementation of a feedforward neural network trained using a particle swarm optimization algorithm. The example data set is the Wine set but the implementation is generalized to any input data. This tutorial presupposes you've read the Particle Swarm Optimization and Neural Network using Backpropagation tutorials as while I start from scratch, I do not repeat much information as covered therein.
+A step-by-step implementation of a feedforward neural network, but instead using a particle swarm algorithm to optimize neural weights. It helps to have read the <i>Neural Network using Backpropagation Training</i> and <i>Particle Swarm Optimization</i> tutorials beforehand.
 
 ## Stuff I'm Working On
 
-Eventually I hope to add these tutorials at some point:
+Eventually I hope to add these tutorials at some point (in no particular order):
 
-- Color organization using Self Organizing Maps
-- more metaheuristics
+- color organization using Self Organizing Maps (SOMs)
+- simulated annealing metaheuristic
+- training a neural network using simulated annealing
