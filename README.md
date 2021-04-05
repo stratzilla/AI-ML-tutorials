@@ -10,23 +10,23 @@ Feel free to distribute, copy, edit, make changes to, etc. these tutorials to yo
 
 A step-by-step implementation of a genetic algorithm to optimize the Styblinski-Tang function, generalized to any dimensionality. Includes one-point crossover and uniform mutation operators, tournament and elite selection strategies.
 
-### <a href="https://github.com/stratzilla/tutorials/tree/master/particle-swarm-optimization">Particle Swarm Optimization</a>
+### <a href="./particle-swarm-optimization">Particle Swarm Optimization</a>
 
 A step-by-step implementation of a particle swarm algorithm to optimize the Schwefel function, generalized to any dimensionality.
 
-### <a href="https://github.com/stratzilla/tutorials/tree/master/k-means">K-Means Clustering</a>
+### <a href="./k-means">K-Means Clustering</a>
 
 A step-by-step implementation of a K-Means clustering algorithm using K-Means++ initialization strategy. Includes Dunn Index calculation to determine merit in cluster count optimization.
 
-### <a href="https://github.com/stratzilla/tutorials/tree/master/neural-network">Neural Network using Backpropagation Training</a>
+### <a href="./neural-network">Neural Network using Backpropagation Training</a>
 
 A step-by-step implementation of a vanilla feedforward neural network trained via backpropagation to model a classifier for the Iris data set. Includes learning rate and momentum hyperparameters.
 
-### <a href="https://github.com/stratzilla/tutorials/tree/master/genetic-neural-network">Neural Network using Genetic Algorithm Training</a>
+### <a href="./genetic-neural-network">Neural Network using Genetic Algorithm Training</a>
 
 A step-by-step implementation of a feedforward neural network, but instead trained using a genetic algorithm to optimize network weights to model a classifier for the Wheat Seeds data set. It helps to have read the <i>Neural Network using Backpropagation Training</i> and <i>Genetic Algorithms</i> tutorials beforehand.
 
-### <a href="https://github.com/stratzilla/tutorials/tree/master/particle-neural-network">Neural Network using Particle Swarm Optimization Training</a>
+### <a href="./particle-neural-network">Neural Network using Particle Swarm Optimization Training</a>
 
 A step-by-step implementation of a feedforward neural network, but instead using a particle swarm algorithm to optimize neural weights to model a classifier for the Wine data set. It helps to have read the <i>Neural Network using Backpropagation Training</i> and <i>Particle Swarm Optimization</i> tutorials beforehand.
 
