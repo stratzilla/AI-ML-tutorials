@@ -14,7 +14,7 @@ A step-by-step implementation of a genetic algorithm to optimize the Styblinski-
 
 A step-by-step implementation of a particle swarm algorithm to optimize the Schwefel function, generalized to any dimensionality.
 
-### <a href="https://github.com/stratzilla/tutorials/tree/master/k-means">K-Means Clustering with K-Means++ Initialization Strategy</a>
+### <a href="https://github.com/stratzilla/tutorials/tree/master/k-means">K-Means Clustering</a>
 
 A step-by-step implementation of a K-Means clustering algorithm using K-Means++ initialization strategy. Includes Dunn Index calculation to determine merit in cluster count optimization.
 
