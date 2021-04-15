@@ -135,15 +135,6 @@ def feed_forward(network, example):
 	return layer_input
 
 def summing_function(weights, inputs):
-	"""Sums the synapse weights with inputs and bias.
-	
-	Parameters:
-		weights : synaptic weights.
-		inputs : a vector of inputs.
-	
-	Returns:
-		The aggregate of inputs times weights, plus bias.
-	"""
 	bias = weights[-1]
 	summ = 0.00
 	for i in range(len(weights)-1):
