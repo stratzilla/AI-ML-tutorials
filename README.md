@@ -36,4 +36,5 @@ Eventually I hope to add these tutorials at some point (in no particular order):
 
 - color organization using Self Organizing Maps (SOMs)
 - simulated annealing metaheuristic
-- training a neural network using simulated annealing
+- differential evolution metaheuristic
+- training a neural network using differential evolution
