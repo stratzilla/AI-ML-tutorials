@@ -38,3 +38,5 @@ Eventually I hope to add these tutorials at some point (in no particular order):
 - simulated annealing metaheuristic
 - differential evolution metaheuristic
 - training a neural network using differential evolution
+- bat algorithm metaheuristic
+- training a neural network using bat algorithm
